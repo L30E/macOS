@@ -1,0 +1,7 @@
+\\Show hidden Files on Mac 
+
+defaults write com.apple.finder AppleShowAllFiles YES 
+
+\\HRevert to default files on Mac 
+
+defaults write com.apple.finder AppleShowAllFiles YES
